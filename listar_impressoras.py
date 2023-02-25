@@ -3,7 +3,7 @@ from easysnmp import snmp_walk
 import json
 
 ##  Importar lista contendo os endereços ip's das impressoras
-from ips_impressoras import lista_impressoras as lista_impressoras
+from ips_impressoras import lista_impressoras
 
 
 #====================================================================
